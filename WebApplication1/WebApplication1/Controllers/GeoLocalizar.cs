@@ -14,6 +14,7 @@ namespace WebApplication1.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //
     public class GeoLocalizar : ControllerBase
     {
         Context _context;
